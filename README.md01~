@@ -1,1 +1,9 @@
 # FizzBuzzJSejercicio
+
+Los multiples de 3 retorna “fizz”,
+Los multiples de 5 retorna “buzz”
+Los multiples de 3 y 5 retorna “fizzbuzz”
+
+Para el resto, retornar el numero 
+
+
