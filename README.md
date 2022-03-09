@@ -1,16 +1,18 @@
-KataFizzBuzz JS
+KataFizzBuzz
 
 Requiered
 PHP 8.0
-
 Composer installed
+
 Install
 composer install
 
 Run Tests
 vendor/bin/phpunit
 
+
 Escribe un programa que imprima los números del 1 al 100:
+
 Aplica las siguientes normas:
 
 Devuelve Fizz si el número es divisible por 3.
