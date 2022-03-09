@@ -1,4 +1,4 @@
-KataFizzBuzz
+KataFizzBuzz JS
 
 Requiered
 PHP 8.0
