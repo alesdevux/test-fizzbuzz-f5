@@ -1,9 +1,19 @@
-# FizzBuzzJSejercicio
+KataFizzBuzz JS
 
-Los multiples de 3 retorna “fizz”,
-Los multiples de 5 retorna “buzz”
-Los multiples de 3 y 5 retorna “fizzbuzz”
+Requiered
+PHP 8.0
 
-Para el resto, retornar el numero 
+Composer installed
+Install
+composer install
 
+Run Tests
+vendor/bin/phpunit
 
+Escribe un programa que imprima los números del 1 al 100:
+Aplica las siguientes normas:
+
+Devuelve Fizz si el número es divisible por 3.
+Devuelve Buzz si el número es divisible por 5.
+Devuelve FizzBuzz si el número es divisible por 3 y por 5.
+Devuelve el mismo número si no se cumple nada de lo anterior.
